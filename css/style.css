@@ -1,6 +1,9 @@
 body {
     padding-top: 50px;
 }
+section{
+  padding:40px 0px 40px 0px;
+}
 .em-text {
     color: #1caa98 !important;
 }
@@ -22,5 +25,10 @@ body {
 }
 .jumbotron .showcase-img {
     width: 75%;
-
+}
+.demo {
+  width: 100%;
+  padding: 3px;
+  margin: 4px;
+  border: 1px solid #ccc;
 }
